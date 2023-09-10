@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-10T15:30:21.408Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.76" etag="dGOmpdr7U8sQ15_BqgJS" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-10T15:32:13.453Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.76" etag="qMcNBWeJoYMZsV5tNumF" version="21.7.4" type="github">
   <diagram id="fN3Cbw2DqfhjiOd_NkiC" name="第 1 页">
     <mxGraphModel dx="1799" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -360,6 +360,33 @@
         </mxCell>
         <mxCell id="Ag0Fxl8VSpULCYmakODj-160" value="随机抽样" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="370" y="110" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ag0Fxl8VSpULCYmakODj-162" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="640" y="180" width="110" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="Ag0Fxl8VSpULCYmakODj-163" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.cloud;" vertex="1" parent="Ag0Fxl8VSpULCYmakODj-162">
+          <mxGeometry width="110" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="Ag0Fxl8VSpULCYmakODj-164" value="中心服务器" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Ag0Fxl8VSpULCYmakODj-162">
+          <mxGeometry x="6.875" y="28.11627906976744" width="96.25" height="64.88372093023256" as="geometry" />
+        </mxCell>
+        <mxCell id="Ag0Fxl8VSpULCYmakODj-165" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="290" as="sourcePoint" />
+            <mxPoint x="630" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ag0Fxl8VSpULCYmakODj-166" value="本轮迭代参与的设备" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="260" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ag0Fxl8VSpULCYmakODj-167" value="本轮迭代参与的数据井" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="180" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ag0Fxl8VSpULCYmakODj-168" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ag0Fxl8VSpULCYmakODj-138">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="300" as="sourcePoint" />
+            <mxPoint x="630" y="180" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
